@@ -6,7 +6,7 @@ Welcome to the MongoDB Tutorial repository! This guide will help you set up Mong
 1. [Installation](#installation)
 2. [Setting Up Environment Variables](#setting-up-environment-variables)
 3. [Basic MongoDB Queries](#basic-mongodb-queries)
-4. [Using MongoDB Compass](#using-mongodb-compass)
+4. [MongoDB Compass Installation](#mongodb-compass-installation)
 5. [Integrating MongoDB with Node.js and Express.js](#integrating-mongodb-with-nodejs-and-expressjs)
 
 ## Installation
