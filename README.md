@@ -57,9 +57,11 @@ Welcome to the MongoDB Tutorial repository! This guide will help you set up Mong
 
 ### Prerequisites
 1. Install Node.js from the official Node.js website.
-2. Start by creating a new directory and all.
-3. In the terminal write -> npm install express mongoose    # to install both the express and mongoose packages
-4. Now refer my src/app.js code
+
+### Integration
+1. Start by creating a new directory and all.
+2. In the terminal write -> npm install express mongoose    # to install both the express and mongoose packages
+3. Now refer my src/app.js code
 
 ## Contribution
 
