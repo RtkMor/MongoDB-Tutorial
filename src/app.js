@@ -222,4 +222,13 @@ const insertQuery = async () => {
 // insertQuery();
 
 
-// Lecture - 8 -> 
+// Lecture - 8 -> Validation
+// learn it from this video -> https://www.youtube.com/watch?v=SorjuKKAMmI&list=PLwGdqUZWnOp1P9xSsJg7g3AY0CUjs-WOa&index=20&ab_channel=ThapaTechnical
+
+// Already present validation options are ->
+// lowercase, uppercase, trim, match, enum, minlength, maxlength
+// for more validation options visit this link -> https://mongoosejs.com/docs/schematypes.html
+
+
+
+// -> Now you have all the basic knowledge of MongoDB and you can move forward to learn the RESTful API creation.
